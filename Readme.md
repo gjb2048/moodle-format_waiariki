@@ -1,6 +1,6 @@
 Introduction
 ============
-Topic based course format for Waiariki Institute of Technology.
+Topic based course format for the Waiariki Institute of Technology.
 
 Required version of Moodle
 ==========================
@@ -55,6 +55,9 @@ can be really useful in visualising the issue along with any files you consider 
 
 Version Information
 ===================
+27th May 2014 - Version 2.6.0.2 - Beta - Do not install on production sites.
+  1.  Finished, tested against specification but not extensively.  Needs work on styling.
+
 27th May 2014 - Version 2.6.0.1 - Alpha - Do not install on production sites.
   1.  Initial development version.
 

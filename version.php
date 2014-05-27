@@ -31,6 +31,8 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version   = 2014052700;        // The current plugin version (Date: YYYYMMDDXX).
+$plugin->version   = 2014052701;        // The current plugin version (Date: YYYYMMDDXX).
+$plugin->maturity = MATURITY_BETA;
 $plugin->requires  = 2013110500;        // Requires this Moodle version.
 $plugin->component = 'format_waiariki';    // Full name of the plugin (used for diagnostics).
+$plugin->release = '2.6.0.2';
